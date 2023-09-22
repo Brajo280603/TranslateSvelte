@@ -13,7 +13,7 @@
 				<strong class="text-2xl uppercase text-primary-500 ">Translate</strong>
 			</svelte:fragment>
 			<svelte:fragment slot="trail">
-					<a class="btn variant-outline-secondary p-1" href="/">
+					<a class="btn variant-outline-secondary p-1" href="https://github.com/Brajo280603/TranslateSvelte" target="_blank">
 						<img src="/github.svg" class="h-10 dark:invert" alt="">
 					</a>
 					<!-- <LightSwitch></LightSwitch> -->
