@@ -4,7 +4,7 @@ A translate webapp made with svelte
 
 ## Link
 
-(TranslateSvelte)[[https://translate-svelte.vercel.app/]]
+[[https://translate-svelte.vercel.app/]]
 
 
 
