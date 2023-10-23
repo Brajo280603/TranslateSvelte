@@ -5,6 +5,7 @@
 	let language = [
 		{value:"ar",text:"Arabic"},
 		{value:"bn",text:"Bengali"},
+  {value: "en", text:"English"},
 		{value:"gu",text:"Gujrati"},
 		{value:"hi",text:"Hindi"},
 		{value:"ja",text:"Japanese"},
